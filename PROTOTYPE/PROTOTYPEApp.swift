@@ -1,17 +1,12 @@
-//
-//  PROTOTYPEApp.swift
-//  PROTOTYPE
-//
-//  Created by Nory Saleem on 2/19/25.
+
+//  Created by Nory Saleem on 2/16/25.
 //
 
 import SwiftUI
 
-@main
-struct PROTOTYPEApp: App {
+struct PrototypeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
         }
     }
 }
